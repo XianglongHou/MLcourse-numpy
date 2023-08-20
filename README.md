@@ -1,4 +1,4 @@
-# Machine-Learning-numpy
+# MLcourse-numpy
 This repository contains Python code implementing some classic machine-learning algorithms. It serves as the course project for **USTC 229003.01 Introduction to Machine Learning**. 
 
 ------
